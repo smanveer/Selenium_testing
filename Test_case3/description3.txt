@@ -1,0 +1,15 @@
+Title: Search bar test
+
+Description: End user should be able to get the results according to searched keyword
+
+Pre-Condition: User reaches the website at https://www.dentrix.com/products/eservices/eclaims/payor-search?keyword=
+
+Assumption: A supported browser is being used.
+
+Description: 
+1. Maximizes the window
+2. Hover to the search bar and type in blue
+3. Hit search payors 
+
+
+Expected Result: Displays the payors with the above mentioned keyword "blue" in their name.

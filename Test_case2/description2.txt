@@ -1,0 +1,14 @@
+Title: How to purchase button functionality test
+
+Description: End user should be able to reach the web page at How to purchase button
+
+Pre-Condition: User reaches the website at https://www.dentrix.com/products/eservices/eclaims/payor-search?keyword=
+
+Assumption: A supported browser is being used.
+
+Description: 
+1. Maximizes the window
+2. Hover to the How to purchase button
+3. Click it
+
+Expected Result: Web-page behind How to purchase button opens up.

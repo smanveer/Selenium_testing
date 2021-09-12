@@ -1,0 +1,13 @@
+Title: Overview button functionality test
+
+Description: End user should be able to reach the web page at Overview button
+
+Pre-Condition: User reaches the website at https://www.dentrix.com/products/eservices/eclaims/payor-search?keyword=
+
+Assumption: a supported browser is being used.
+
+Description: 
+1. Hover to the Overview button
+2. Click it
+
+Expected Result: Web-page behind overview button open up.
